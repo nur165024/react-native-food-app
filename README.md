@@ -1,1 +1,1 @@
-# react-native-foot-app
+# react-native-food-app
